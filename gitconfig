@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rigaut.simon@gmail.com
+	name = Simon Rigaut
